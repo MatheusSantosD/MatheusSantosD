@@ -3,7 +3,7 @@
 **Futoro Analistá de Dados**
 
 Me chamo Matheus Dias Santos, tenho 18 anos e sou de Jundiaí-SP.
-Atualmente estou no 2 ano do ensino médio, faço cursos na Hashtag Treinamentos e na Alura. Pretendo fazer Análise e Desenvolvimento de Sistemas na Fiap. Sou um entuasiata da tecnologia e compartilho meus conhecimentos no meu canal do Youtube "[DescodificaAí](https://www.youtube.com/@DescodificaAii)" Onde ensino programação e dou dicas, e também através do instagram, com o perfil chamado "[matheussdti](https://www.instagram.com/matheussdti/)".
+Atualmente estou no 3 ano do ensino médio, faço cursos na Hashtag Treinamentos e na Alura. Pretendo fazer Análise e Desenvolvimento de Sistemas na Fiap. Sou um entuasiata da tecnologia e compartilho meus conhecimentos no meu canal do Youtube "[DescodificaAí](https://www.youtube.com/@DescodificaAii)" Onde ensino programação e dou dicas, e também através do instagram, com o perfil chamado "[matheussdti](https://www.instagram.com/matheussdti/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@DescodificaAii">
